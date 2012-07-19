@@ -1,0 +1,4 @@
+Codes used in MSP430 Launchpad(M430G2553)
+  1.led1.c - blink red led (on board)
+  2.led2.c - blink green led (on board)
+  3.toggle.c - toggle both led
